@@ -4,7 +4,7 @@ h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin
 @media(min-width:400px){.vbar{display: none;} }
 @media(max-width:400px){.icon-bar{display: none;} }
 ul {
-  width:400px;
+  width:auto;
   position: fixed;
   list-style-type: none;
   margin: 0;
@@ -14,7 +14,7 @@ ul {
 }
 
 li {
-  width:80px;
+  width:20%;
   float: left;
 }
 
