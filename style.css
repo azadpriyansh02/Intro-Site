@@ -1,8 +1,8 @@
 html,body{background-color:black;font-family:Verdana,sans-serif;font-size:15px;color:white;line-height:1.5}html{overflow-x:hidden}
 h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}
 h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}
-@media(min-width:600px){.vbar{display: none;} }
-@media(max-width:600px){.icon-bar{display: none;} }
+@media(min-width:400px){.vbar{display: none;} }
+@media(max-width:400px){.icon-bar{display: none;} }
 ul {
   width:100%;
   position: fixed;
